@@ -1,0 +1,66 @@
+,Variable,coef,S/NS,std err,t,P>|t|,[0.025,0.975]
+Promos__Super_Bacon_Thick_454g_TPR,Temporary Price Reduction Promotion 454g,0.830926973,Significant,0.06,13.883,0,0.712,0.95
+Promos__Super_Bacon_Thick_454g_MB,Money Back Promotion 454g,0.300741531,Significant,0.035,8.516,0,0.231,0.371
+Promos__Super_Bacon_Thick_454g_2for3pn,2 for 3 Promotion,0.211715275,Significant,0.035,6.034,0,0.142,0.281
+Seasonality__Average_Temperature_C,Temperature,0.131321967,Not Significant,0.083,1.576,0.118,-0.034,0.296
+Seasonality__Christmas_Eve,Christmas Eve,0.09776786,Significant,0.037,2.647,0.009,0.025,0.171
+kg_Avg_Price_Super_Bacon_Thick_681g,Price 681g,0.095433784,Not Significant,0.101,0.941,0.349,-0.106,0.297
+Month_12,December,0.085544179,Significant,0.037,2.298,0.024,0.012,0.159
+Promos__Super_Bacon_Thick_454g_low_Money_Off,Money Off Promotion 454g,0.084582837,Significant,0.039,2.164,0.033,0.007,0.162
+Month_11,November,0.078329843,Significant,0.03,2.621,0.01,0.019,0.138
+Seasonality__Good_Friday_BH,Good Friday,0.068145995,Significant,0.028,2.421,0.017,0.012,0.124
+Seasonality__Royal_Wedding_BH,Royal Wedding,0.065850561,Significant,0.029,2.26,0.026,0.008,0.124
+Super_Bacon_Media__Bacon__TV_Spend,TV Advertisement,0.056641632,Not Significant,0.033,1.693,0.093,-0.01,0.123
+Promos__Super_Bacon_Thick_454g_Other,Other Promos 454g,0.053609372,Not Significant,0.042,1.273,0.206,-0.03,0.137
+Seasonality__New_Years_Eve,New Years Eve,0.048114468,Not Significant,0.043,1.131,0.261,-0.036,0.132
+Month_2,February,0.045419119,Not Significant,0.038,1.185,0.239,-0.031,0.121
+Seasonality__Snow_,Snow,0.039923429,Not Significant,0.034,1.165,0.247,-0.028,0.108
+Seasonality__2011_Riots,Riots,0.039902731,Not Significant,0.026,1.554,0.123,-0.011,0.091
+Month_4,April,0.037359655,Not Significant,0.039,0.957,0.341,-0.04,0.115
+Promos__Super_Bacon_Thin_340g_Disp,Display Promotion 340g,0.034123283,Not Significant,0.03,1.132,0.26,-0.026,0.094
+Month_1,January,0.030810307,Not Significant,0.038,0.817,0.416,-0.044,0.106
+Seasonality__Spring_BH,Spring,0.03072309,Not Significant,0.035,0.888,0.377,-0.038,0.099
+Horse_Meat_Scandal,Meat Scandal,0.029010012,Not Significant,0.036,0.815,0.417,-0.042,0.1
+Super_Bacon_Media__TV_Sponsorship,TV Sponsorship,0.028862775,Not Significant,0.03,0.967,0.336,-0.03,0.088
+Seasonality__All_Bank_Holidays,All Bank Holidays,0.019022814,Not Significant,0.015,1.278,0.204,-0.01,0.049
+Seasonality__Early_May_BH,May Bank Holiday,0.012689711,Not Significant,0.028,0.455,0.65,-0.043,0.068
+Promos__Super_Bacon_Thick_454g_lowDisp,Low Display Promotion 454g,0.010757637,Not Significant,0.035,0.309,0.758,-0.058,0.08
+Seasonality__Diamond_Jubilee_BH,Diamond Jubilee,0.010009128,Not Significant,0.032,0.316,0.753,-0.053,0.073
+Seasonality__Mothers_Day,Mothers Day,0.007665687,Not Significant,0.028,0.277,0.782,-0.047,0.063
+Seasonality__Football_Euros,Football Euros,0.003921725,Not Significant,0.019,0.208,0.836,-0.033,0.041
+Seasonality__Football_World_Cup_and_Euros,World Cup And Euro,0.003921725,Not Significant,0.019,0.208,0.836,-0.033,0.041
+Seasonality__St_Patricks_Day,St Patricks Day,0.002988489,Not Significant,0.028,0.107,0.915,-0.053,0.059
+Month_10,October,0.001295377,Not Significant,0.026,0.05,0.96,-0.05,0.053
+Promos__Super_Bacon_Thick_454g_Half_Price,Promotion 454g Half Price ,1.01209E-16,Not Significant,6.95E-17,1.456,0.148,-3.66E-17,2.39E-16
+Promos__Super_Bacon_Thick_454g_Money_Off,Promotion 454g Money Off,1.3518E-17,Not Significant,8.84E-17,0.153,0.879,-1.62E-16,1.89E-16
+Seasonality__Football_World_Cup,Football World Cup,8.18505E-19,Not Significant,1.03E-17,0.08,0.937,-1.95E-17,2.12E-17
+Promos__Super_Bacon_Thin_340g_Deep_Money_Off,Promotion 340g Deep Money Off,-1.1048E-16,Significant,3.48E-17,-3.175,0.002,-1.79E-16,-4.15E-17
+Promos__Super_Bacon_Thin_340g_MB,Promotion 340g Money Back,-1.1846E-16,Significant,5.79E-17,-2.046,0.043,-2.33E-16,-3.68E-18
+Promos__Super_Bacon_Thin_340g_Money_Off,Promotion 340g Money Off,-0.000258817,Not Significant,0.03,-0.008,0.993,-0.061,0.06
+Seasonality__Easter_Monday_BH,Easter Monday,-0.003298407,Not Significant,0.033,-0.099,0.921,-0.069,0.063
+Seasonality__Sunshine_,Sunshine,-0.006877391,Not Significant,0.052,-0.132,0.895,-0.11,0.096
+Promos__Super_Bacon_Thick_454g_Disp,Display Promotion 454g,-0.009864472,Not Significant,0.04,-0.249,0.804,-0.088,0.069
+Month_5,May,-0.011589145,Not Significant,0.029,-0.404,0.687,-0.068,0.045
+Seasonality__Valentines_Day,Valentines,-0.015681766,Not Significant,0.031,-0.506,0.614,-0.077,0.046
+Seasonality__New_Years_BH,New Years,-0.015958087,Not Significant,0.02,-0.799,0.426,-0.056,0.024
+Seasonality__New_Years_Day,New Years Day,-0.015958087,Not Significant,0.02,-0.799,0.426,-0.056,0.024
+Promos__Super_Bacon_Thick_681g_Disp,Display Promotion 681g,-0.018361558,Not Significant,0.044,-0.419,0.676,-0.105,0.069
+Seasonality__2012_London_Olympics,2012 London,-0.02433317,Not Significant,0.029,-0.851,0.397,-0.081,0.032
+Seasonality__Summer_BH,Summer Bank Holiday,-0.025203671,Not Significant,0.027,-0.935,0.352,-0.079,0.028
+Seasonality__Precipitation_,Precipitation,-0.027166155,Not Significant,0.035,-0.787,0.433,-0.096,0.041
+Super_Bacon_Media__Facebook_Spend,Facebook Media,-0.027599794,Not Significant,0.033,-0.847,0.399,-0.092,0.037
+Month_3,March,-0.027704646,Not Significant,0.034,-0.814,0.418,-0.095,0.04
+Seasonality__Christmas_Day,Christmas,-0.028589766,Significant,0.01,-2.977,0.004,-0.048,-0.01
+Seasonality__Boxing_Day,Boxing Day,-0.028589766,Not Significant,0.029,-1.295,0.198,-0.095,0.02
+Seasonality__Christmas_BH,Christmas Bank Holiday,-0.028589766,Significant,0.01,-2.977,0.004,-0.048,-0.01
+Seasonality__Boxing_Day_BH,Boxing Day Bank Holiday,-0.028589766,Not Significant,0.039,-1.061,0.291,-0.119,0.036
+Super_Bacon_Media__Press__Spend,Newspaper Advertisement Spend,-0.037570841,Not Significant,0.03,-1.639,0.104,-0.107,0.01
+Month_8,August,-0.041333999,Not Significant,0.036,-1.365,0.175,-0.121,0.022
+Seasonality__Fathers_Day,Fathers Day,-0.048564659,Not Significant,0.044,-1.403,0.164,-0.148,0.025
+Month_7,July,-0.049201376,Not Significant,0.047,-1.36,0.177,-0.156,0.029
+Month_6,June,-0.061469163,Significant,0.029,-3.01,0.003,-0.146,-0.03
+Economy_Consumer_Confidence_Index_,Confidence Index ,-0.06329107,Not Significant,0.062,-1.525,0.13,-0.218,0.028
+Month_9,September,-0.087769085,Not Significant,0.062,-1.967,0.052,-0.244,0.001
+Promos__Super_Bacon_Thick_681g_TPR,Temporary Price Reduction Promotion 681g,-0.094838162,Not Significant,0.094,-1.601,0.112,-0.335,0.036
+kg_Avg_Price_Super_Bacon_Thick_454g,Price Of 454g Bacon,-0.1213,Not Significant,0.062,-1.967,0.052,-0.244,0.001
+Promos__Super_Bacon_Thick_681g_Half_Price,Half Price Promotion 681g,-0.1497,Not Significant,0.094,-1.601,0.112,-0.335,0.036
